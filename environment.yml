@@ -1,0 +1,11 @@
+name: cuquantum-23.10
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pylatexenc
+  - ipykernel
+  - qutip
+  - pip
+  - pip:
+prefix: /home/cuquantum/conda/envs/cuquantum-23.10
